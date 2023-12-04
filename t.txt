@@ -1,0 +1,2 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root      304421 44.9  1.6 117385836 8508716 ?   Ssl  10:20  20:16 /usr/bin/python -m ipykernel_launcher -f /root/.local/share/jupyter/runtime/kernel-b8ea83d5-b2e3-46ba-83f4-1517fb6c4cb1.json
